@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  canvas:
+  - apiVersion: v2
+    created: "2020-07-06T20:50:28.508192772+01:00"
+    description: A TMForum ODA compliant component canvas
+    digest: 1018b21b1e72ef4e8d1d2d920001124e7c229b438f0c0c59a72dcce3354f35ea
+    name: canvas
+    type: application
+    urls:
+    - https://brian-burton.github.io/helmcharts/canvas-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-06T20:50:28.507040448+01:00"

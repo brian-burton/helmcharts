@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+description: A TMForum ODA compliant component canvas
+name: canvas
+type: application
+version: 0.1.0
+
+...
+files:
+  canvas-0.1.0.tgz: sha256:1018b21b1e72ef4e8d1d2d920001124e7c229b438f0c0c59a72dcce3354f35ea
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJfA3Y0CRBJAMxPtNxRegAAYmgQANlq1JjIJ0a9jFALFZSDFKM/
+52s/lKNh+1327OAuHDxx/pIy98Shu/GYMxOh+BpVVj5Y7imeIkGrsFTAtIIeN7lj
+Tdk3ttSB3iqLVElwrFJFMwjNOoLEQ4a1lLX2k1HnqkuOzimSqXDo+DpPChxS4hmc
+oe0M3NLT8E3W+eBX/lK4QwRe0fNjcbsjZ3u0ZNEMNMDpEwC6sRCzyqmo5tgAvsDP
+OkRQS8Wl2HlYQD1pQb0W/JUPhcx+e93Rbt/QFgEuJOJcHtRgbYofgL2doJ0X8RhM
+lN4y/frShrWw2QFCunTvI4mK8dl9ysUYRv5z9KRVemu6LQ4Qc/FM8VyxW/cwee2N
++Z9TFwCTZM7plSyCUvjq+0zryw6U3A75lXLzc1nd5bWSD/vbHLiHy8A7ulvml3pQ
+oFm0KpXYyA8y7PRKGrcK+cchgZ3rAq98ZScZhi1XNJddxRTe2H1dQ2AGhqngyxdG
+AJ6g9fbyR7A/CFZQECwRmhi5qu03FaQ/yA6ZoBOHsVDy7RBsJ8dLrwTAKOCEatAg
+65CRQGrckLFonVIirpm9JkOa5Syk/7LHaYqtLHkK541XYThxFW7Ls1dt1J9P+aYM
+meboJ2niQ8r1BH3g46DcsPLv80HRkDJhN8m9qowOE3fhlAPFFBzNeU/4Fd+cxXMi
+BiT6ZzjGyy/8RmjnLRpC
+=Ea6t
+-----END PGP SIGNATURE-----
